@@ -316,59 +316,6 @@ The public portfolio version intentionally excludes:
 └──────────────────────────┘
 ```
 
----
-
-## Representative Information Model
-
-The portfolio version uses generic terminology such as:
-
-- Source Incident
-- Priority
-- Short Description
-- Service Disruption Start
-- Incident Reported At
-- Incident Declared At
-- Service Restored At
-- Resolution Objective Met
-- Primary Service
-- Affected Services
-- Impacted Department
-- Impact Summary
-- Incident Summary
-- Initial Root Cause
-- Lessons Learned
-- Related Problem
-- Related Change
-- External Reference
-- Review Status
-- Approval Status
-
-These names illustrate the solution design and do not reproduce an organisation’s production data model.
-
----
-
-## Platform Capabilities Demonstrated
-
-The project demonstrates the practical application of the following platform capabilities:
-
-- Service-management process design
-- Custom application design
-- Data-model design
-- Workflow orchestration
-- Server-side automation
-- Record creation and update logic
-- Data synchronisation
-- Governance and approval controls
-- Notification and reminder design
-- Escalation management
-- Document and attachment handling
-- Reporting lifecycle management
-- Audit and history tracking
-- Operational reporting concepts
-- Testing and iterative improvement
-
----
-
 ## Representative Automation Components
 
 The portfolio repository may include sanitised examples of the following automation components:
