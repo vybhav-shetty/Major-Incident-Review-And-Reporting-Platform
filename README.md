@@ -2,6 +2,8 @@
 
 A centralised ServiceNow platform for managing the end-to-end Major Incident Review lifecycle. The solution replaces fragmented, document-based activities with structured workflows for report preparation, collaborative review, approvals, SLA governance, PDF publication, controlled distribution, and audit-ready record management.
 
+<img width="1536" height="990" alt="Solution Architecture" src="https://github.com/user-attachments/assets/f72e6efd-0ad2-4f7b-8a0a-acae7b2e03fd" />
+
 ## Project Highlights
 
 - Centralised Major Incident Report creation, review, approval, publication, and distribution within ServiceNow.
