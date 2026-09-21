@@ -38,12 +38,10 @@ The Major Incident Review process relied on fragmented workflows, manual data co
 - Integration between Major Incident and MIR records to support consistent incident information.
 - Structured lifecycle stages covering Draft, Internal Review, Stakeholder Engagement, Stakeholder Review, Director Approval, Final Submission, and Closure.
 - Real-time, screen-based stakeholder review within ServiceNow, replacing reliance on Microsoft Word-based review documents.
-- Workflow-driven internal review and director approval processes.
 - SLA monitoring, reminder notifications, and escalation communications for time-sensitive review activities.
-- State-based field controls that display, require, or protect information at the appropriate lifecycle stage.
 - Automated generation and attachment of draft and final MIR PDF documents.
 - Controlled final report distribution using standardised email templates.
-- Centralised retention of MIR data, approvals, communications, attachments, and final reports for auditability and traceability.
+- Centralised retention of MIR data, approvals, and final reports for auditability and traceability.
 
 ## My Contribution
 
@@ -58,18 +56,17 @@ The Major Incident Review process relied on fragmented workflows, manual data co
 
 - ServiceNow Now Experience UI
 - Service Operations Workspace
-- ServiceNow workflows and business rules
+- ServiceNow workflows
 - ServiceNow approval and SLA framework
 - Email notifications and templates
 - PDF generation and attachment management
-- UI policies and state-based controls
+- UI policies and business rules
 
 ## Outcomes
 
-- Dedicated MIR records created and managed within ServiceNow.
-- Structured workflow stages with defined ownership and approval controls.
-- Screen-based stakeholder review and collaboration.
-- Integrated incident information and improved data consistency.
-- SLA monitoring, reminders, and escalation communications.
-- Automated PDF generation, attachment management, and controlled distribution.
-- Centralised history supporting traceability, audit, compliance, and post-incident learning.
+- Reduced turnaround time for Major Incident Report creation, review, approval, and submission by replacing fragmented document-based activities with a structured ServiceNow workflow.
+- Improved productivity of Major Incident Managers by eliminating manual report consolidation, review coordination, approval tracking, and distribution activities through workflow automation and centralised record management.
+- Enabled faster root cause analysis, corrective action planning, and continuous service improvement by providing a governed and collaborative review process with improved visibility of incident data, recommendations, and lessons learnt.
+- Increased stakeholder confidence through timely, standardised, and consistent post-incident reporting supported by formal review and approval workflows.
+- Strengthened governance, compliance, and audit readiness by maintaining a complete and traceable history of reviews, approvals, communications, and final reports within ServiceNow.
+- Established a scalable foundation for future AI-assisted report drafting, intelligent recommendations, and automated post-incident insights.
